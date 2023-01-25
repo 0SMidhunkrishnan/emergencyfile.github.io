@@ -1,0 +1,5 @@
+
+.icon-blue {
+    -webkit-filter: hue-rotate(220deg) saturate(5);
+    filter: hue-rotate(220deg) saturate(5);
+}
